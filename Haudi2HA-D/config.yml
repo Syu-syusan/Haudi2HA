@@ -1,0 +1,9 @@
+mqtt:
+  host: 192.168.85.200
+  port: 1883
+  frequency_topic: haudi/hass/Nishiarai/Dcourt/commandtopic
+
+modbus:
+  host: 192.168.85.201
+  port: 502
+  frequency_topic: haudi/hass/Nishiarai/Dcourt/commandtopic
